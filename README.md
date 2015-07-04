@@ -30,7 +30,7 @@ e.txt
 f.txt
 
 ```
-2) Open the argurment pane demonstrated on picture - 
+2) Open the argument pane demonstrated on picture - 
 
 ![](Screenshots/Screenshot1.png)
 
