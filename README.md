@@ -12,7 +12,7 @@ Your C program must compile on the machines in the Linux lab and should do the f
 2. Determine the set of words that occur at least once in both documents.
 3. Put these common words in increasing alphabetical order.
 4. Print the ordered list of words on the terminal (stdout).
-5. Process any error conditions and reactsuitably.
+5. Process any error conditions and react suitably.
 
 
 Only use functions from the standard C library and not any other libraries, and do not directly use any code from other sources, but write your own code for the complete functionality.
